@@ -3,6 +3,8 @@
 Repository for Computer Vision Tutorial at DSA 2023
 
 Part I: Image Classification
+
 Step 1: Data preparation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nx024hhi31xmVXaPF0QQwAe9Z0ajNmSu?usp=sharing)
 
-Part II: Object Detection 
+Step 2: Model Development and Evalua[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gt_13_h6oPgCzuAUv_FbNHMk_rKJkQ5Z?usp=sharing)
+
