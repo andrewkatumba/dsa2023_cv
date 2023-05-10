@@ -1,6 +1,8 @@
 # Data Science Africa 2023: Computer Vision Hands-on session
 
-Repository for Computer Vision Tutorial at DSA 2023
+## Repository for Computer Vision Tutorial at DSA 2023
+
+Presentation slides: [I'm a relative reference to a repository file](./Computer%20Vision_%20A%20deep%20learning%20approach_DSA2023_Kigali.pdf)
 
 Part I: Image Classification
 
