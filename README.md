@@ -2,7 +2,7 @@
 
 ## Repository for Computer Vision Tutorial at DSA 2023
 
-Presentation slides: [I'm a relative reference to a repository file](./Computer%20Vision_%20A%20deep%20learning%20approach_DSA2023_Kigali.pdf)
+Presentation slides: [Computer Vision: A Deep Learning Approach](./Computer%20Vision_%20A%20deep%20learning%20approach_DSA2023_Kigali.pdf)
 
 Part I: Image Classification
 
