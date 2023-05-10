@@ -6,7 +6,7 @@ Presentation slides: [Computer Vision: A Deep Learning Approach](./Computer%20Vi
 
 Resourses:
 - [Cassava Leaf Dataset, Makerere University + Lacuna Fund](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4RB0B)
-- [Fast AI] (https://fast.ai)
+- [Fast AI](https://fast.ai)
 - [Other Fast AI tutorials](https://www.fast.ai/)
 - [The Deep Learning book](https://www.deeplearningbook.org/)
 
